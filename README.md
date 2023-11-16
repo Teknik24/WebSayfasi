@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/Teknik24/Web/assets/151061166/789a155b-95bb-46d0-aefe-2e7bfda30061)
 
 # Teknik Servis ve Bilişim Labarovatuar'ı
 ### Teknoloji Servisiniz
