@@ -1,4 +1,4 @@
-# Teknik Servis
+# Teknik Servis ve Bilişim Labarovatuar'ı
 ### Teknoloji Servisiniz
 ## Online Satış
 ### Bilgisayar, Çevre Birimleri, Yazılım ve Elektrik Malzemeleri
