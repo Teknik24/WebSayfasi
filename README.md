@@ -1,4 +1,3 @@
-# Web
 # Teknik Servis
 ## Online Satış
 ## Konum'da Elektrik Sorunları ve Elektronik'te Çözümler 
